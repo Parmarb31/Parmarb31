@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parmarb31
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning C# Language 
-- 💞️ I’m looking to collaborate on Expand Freamwork
+- 🌱 I’m currently working on windows and web app
+- 💞️ I’m looking to collaborate on Devexpress Freamwork
 - 📫 How to reach me ...
 
 <!---
